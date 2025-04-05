@@ -1,0 +1,6 @@
+groq
+streamlit
+agno
+python-dotenv
+openai
+Pillow

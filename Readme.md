@@ -63,10 +63,11 @@ The application will be available at `http://localhost:8501`.
 4. Receive feedback and learning moments based on your choices
 5. Track your progress and skill development
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+##  MY TEAM MEMBER
+- pooja pandey
+- divya gaur
+- abhishek bhati
+  
 ## Acknowledgments
 
 - Built with Streamlit
